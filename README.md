@@ -44,5 +44,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeshanNethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Deshan's GitHub Stats" />
+  <!-- Using the backup mirror to fix the broken image issue -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeshanNethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Deshan's GitHub Stats" />
 </p>
